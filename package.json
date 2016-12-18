@@ -1,0 +1,15 @@
+{
+  "name": "order_api",
+  "version": "1.0.0",
+  "description": "REST API example using NODE.JS and Mongo DB",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "REST"
+  ],
+  "author": "Shahbaz Ahmed",
+  "license": "ISC"
+}
